@@ -6,7 +6,7 @@ Contect me - lokesh15mca@gmail.com or 8302880785
 
 
 
-- 👀 All of my projects are available at My Portfolio - lokesh-portfolio.vercel.app/
+- 👀 All of my projects are available at My Portfolio - https://lokesh-portfolio.vercel.app/
 - 👀 Linkedin - https://www.linkedin.com/in/lokesh-singh-4bb1b6126/
 
 
