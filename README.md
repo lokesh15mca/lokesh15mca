@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lokesh Singh
 - 👀 I’m interested in full stack developer Job.
-- 🌱 I’m currently learning React and Node js.
+- 
 Contect me - lokesh15mca@gmail.com or 8302880785
 
 
