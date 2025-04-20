@@ -1,5 +1,7 @@
 - 👋 Hi, I’m Lokesh Singh
-- 👀 I’m interested in full stack developer Job.
+- 👀 I’m a dedicated Full-Stack Developer with 6+ years of experience, specializing in JavaScript, HTML, CSS, React, Node.js, and Express.js. I’m passionate about building scalable, high-performance web applications and continuously improving my craft.
+
+I thrive in dynamic, growth-focused environments where I can contribute meaningfully to both front-end and back-end development while expanding my knowledge of modern web technologies.
 
 
 
